@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hola a TODOS 👋
+### Me llamo Christian López, 
+### Estudiante de Software en la UTA
+### Diseñador autodidacta
+> Soy un estudiante de la carrera de Software en la Universidad Tecnica de Ambato en Ecuador
 
 <!--
 **ChrisitanLP/ChrisitanLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
