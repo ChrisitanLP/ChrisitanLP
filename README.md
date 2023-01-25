@@ -1,8 +1,8 @@
 ## Hola a TODOS 👋
-### Me llamo Christian López, 
-### Estudiante de Software en la UTA
-### Diseñador autodidacta
-> Soy un estudiante de la carrera de Software en la Universidad Tecnica de Ambato en Ecuador
+#### Me llamo Christian López, estudiante de Software en la UTA ✍️
+#### Diseñador autodidacta 🎨🖼️ y programador Junior 🧑‍💻
+> Soy un estudiante de la carrera de Software en la Universidad Tecnica de Ambato en Ecuador.
+> En mis tiempos libres realizo diseños para personas o instituciones, puesto que mi gran amor es el Arte 🧑‍🎨.
 
 <!--
 **ChrisitanLP/ChrisitanLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
