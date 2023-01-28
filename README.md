@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/564x/b9/08/71/b908713215edad0bd26d110b3435dfe1.jpg" class="rounded mx-auto d-block" alt="Fondo_Bienvenida">
+<center><img src="https://i.pinimg.com/564x/b9/08/71/b908713215edad0bd26d110b3435dfe1.jpg" class="rounded mx-auto d-block" alt="Fondo_Bienvenida"/></center>
 ## Hola a TODOS 👋
 #### Me llamo Christian López, estudiante de Software en la UTA ✍️
 #### Diseñador autodidacta 🎨🖼️ y programador Junior 🧑‍💻
@@ -20,7 +20,7 @@ En el ambito de la programacion conozco varios lenguajes de programación, entre
          ![banner](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
          ![banner](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
          ![banner](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-    - Estaditsticas
+   - Estaditsticas
       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api username=ChrisitanLP&show_icons=true&theme=radical)
    
 #### VideoJuegos
@@ -34,7 +34,7 @@ Se distraerme un poco jugando, alguno de estos juegos son
       ![banner](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
 #### Diseño e Ilustración
 Cuando se trata de ilustrar hago uso de varias aplicaciones, estas son
-    - Aplicaciones
+   - Aplicaciones
       - ![banner](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
       ![banner](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
       ![banner](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
