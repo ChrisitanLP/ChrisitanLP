@@ -1,9 +1,10 @@
 ## Hola a TODOS 👋
-#### Me llamo Christian López, estudiante de Software en la UTA ✍️
-#### Diseñador autodidacta 🎨🖼️ y programador Junior 🧑‍💻
-#### Redes
+#### Me llamo Christian López, estudiante de Software en la UTA ✍️. Diseñador autodidacta 🎨🖼️ y programador Junior 🧑‍💻
+![This is an image](https://i.pinimg.com/564x/b9/85/84/b98584ab9f36137453a742d696b3d7f8.jpg)
+#### Datos
 - Facebook <a href="https://www.facebook.com/gatito123456789"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-- Twitter <a href="https://twitter.com/LpRistian"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+- @LpRistian <a href="https://twitter.com/LpRistian"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+- Correo:  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 ### Información
 Yo soy un desarrollador junior, estudiante de la carrera de Software de la Universidad Tecnica de Ambato en Ecuador, tambien soy un ilustrador autodidacta que se encarga de realizar trabajos de diseño, elaboracion de maquetas, creación de diseñor 3d y más. Ademas, en mis tiempos libres realizo diseños para personas o instituciones, puesto que mi gran amor es el Arte 🧑‍🎨.
 Con el paso del tiempo he ido conociendo muchas cosas las cuales me han ayudado a crecer y expandir mis conocimientos.
@@ -20,7 +21,7 @@ En el ambito de la programacion conozco varios lenguajes de programación, entre
          ![banner](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
          ![banner](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
    - Estaditsticas
-      - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api username=ChrisitanLP&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisitanLP&show_icons=true)
    
 #### VideoJuegos
 Se distraerme un poco jugando, alguno de estos juegos son
