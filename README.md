@@ -1,4 +1,3 @@
-<center><img src="https://i.pinimg.com/564x/b9/08/71/b908713215edad0bd26d110b3435dfe1.jpg" class="rounded mx-auto d-block" alt="Fondo_Bienvenida"/></center>
 ## Hola a TODOS 👋
 #### Me llamo Christian López, estudiante de Software en la UTA ✍️
 #### Diseñador autodidacta 🎨🖼️ y programador Junior 🧑‍💻
@@ -13,15 +12,15 @@ Con el paso del tiempo he ido conociendo muchas cosas las cuales me han ayudado 
 En el ambito de la programacion conozco varios lenguajes de programación, entre ellos
    - Lenguajes de Programación
       - ![banner](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-        ![banner](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-        ![banner](https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)
+         ![banner](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+         ![banner](https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white)
          ![banner](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
          ![banner](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
          ![banner](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
          ![banner](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
          ![banner](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
    - Estaditsticas
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api username=ChrisitanLP&show_icons=true&theme=radical)
+      - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api username=ChrisitanLP&show_icons=true&theme=radical)
    
 #### VideoJuegos
 Se distraerme un poco jugando, alguno de estos juegos son
