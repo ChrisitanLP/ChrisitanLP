@@ -25,6 +25,7 @@ En el ambito de la programacion conozco varios lenguajes de programación, entre
          ![banner](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
    - Estaditsticas
       - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisitanLP&show_icons=true)
+      - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
    
 - VideoJuegos: 
 Se distraerme un poco jugando, alguno de estos juegos son
