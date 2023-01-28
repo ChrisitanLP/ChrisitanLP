@@ -12,7 +12,7 @@
 Yo soy un desarrollador junior, estudiante de la carrera de Software de la Universidad Tecnica de Ambato en Ecuador, tambien soy un ilustrador autodidacta que se encarga de realizar trabajos de diseño, elaboracion de maquetas, creación de diseñor 3d y más. Ademas, en mis tiempos libres realizo diseños para personas o instituciones, puesto que mi gran amor es el Arte 🧑‍🎨.
 Con el paso del tiempo he ido conociendo muchas cosas las cuales me han ayudado a crecer y expandir mis conocimientos.
 ### Pasatiempos
-- Programación
+- Programación: 
 En el ambito de la programacion conozco varios lenguajes de programación, entre ellos
    - Lenguajes de Programación
       - ![banner](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -26,7 +26,7 @@ En el ambito de la programacion conozco varios lenguajes de programación, entre
    - Estaditsticas
       - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisitanLP&show_icons=true)
    
-- VideoJuegos
+- VideoJuegos: 
 Se distraerme un poco jugando, alguno de estos juegos son
    - Juegos
       - ![banner](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)
@@ -35,7 +35,7 @@ Se distraerme un poco jugando, alguno de estos juegos son
       - ![banner](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
       ![banner](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
       ![banner](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)
-- Diseño e Ilustración
+- Diseño e Ilustración: 
 Cuando se trata de ilustrar hago uso de varias aplicaciones, estas son
    - Aplicaciones
       - ![banner](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
