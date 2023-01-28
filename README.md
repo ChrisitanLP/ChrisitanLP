@@ -1,13 +1,14 @@
 ## Hola a TODOS 👋
 #### Me llamo Christian López, estudiante de Software en la UTA ✍️
 #### Diseñador autodidacta 🎨🖼️ y programador Junior 🧑‍💻
-###Redes
-- Facebook https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white (https://www.facebook.com/gatito123456789)
+#### Redes
+- Facebook https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white (https://www.facebook.com/gatito123456789) FACEBOOK
 - Twitter https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white (https://twitter.com/LpRistian)
-###Información
+### Información
+APPLE SILICON
 En mis tiempos libres realizo diseños para personas o instituciones, puesto que mi gran amor es el Arte 🧑‍🎨.
-###Pasatiempos
-####Programación
+### Pasatiempos
+#### Programación
 En el ambito de la programacion conozco varios lenguajes de programación, entre ellos
 *. Lenguajes de Programación
    -https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
