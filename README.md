@@ -2,15 +2,14 @@
 #### Me llamo Christian López, estudiante de Software en la UTA ✍️
 #### Diseñador autodidacta 🎨🖼️ y programador Junior 🧑‍💻
 #### Redes
-- Facebook https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white (https://www.facebook.com/gatito123456789) FACEBOOK
-- Twitter https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white (https://twitter.com/LpRistian)
+- Facebook ![banner](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white (https://www.facebook.com/gatito123456789)
+- Twitter ![banner](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white (https://twitter.com/LpRistian)
 ### Información
 En mis tiempos libres realizo diseños para personas o instituciones, puesto que mi gran amor es el Arte 🧑‍🎨.
 ### Pasatiempos
 #### Programación
 En el ambito de la programacion conozco varios lenguajes de programación, entre ellos
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
-*. 
    - Lenguajes de Programación
       - [(https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]
       - https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
@@ -22,15 +21,15 @@ En el ambito de la programacion conozco varios lenguajes de programación, entre
       - https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
    
    
-####VideoJuegos
+#### VideoJuegos
 Se distraerme un poco jugando, alguno de estos juegos son
-*. Juegos
-   - https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white
-   - https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white
-*. Plataformas
-   - https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
-   - https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white
-   - https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white
+   - Juegos
+      - https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white
+      - https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white
+   - Plataformas
+      - https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
+      - https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white
+      - https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white
    
 <!--
 **ChrisitanLP/ChrisitanLP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
