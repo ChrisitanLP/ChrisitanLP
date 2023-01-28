@@ -5,20 +5,21 @@
 - Facebook https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white (https://www.facebook.com/gatito123456789) FACEBOOK
 - Twitter https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white (https://twitter.com/LpRistian)
 ### Información
-APPLE SILICON
 En mis tiempos libres realizo diseños para personas o instituciones, puesto que mi gran amor es el Arte 🧑‍🎨.
 ### Pasatiempos
 #### Programación
 En el ambito de la programacion conozco varios lenguajes de programación, entre ellos
-*. Lenguajes de Programación
-   -https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
-   - https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
-   - https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white
-   - https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-   - https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-   - https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-   - https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-   - https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+*. 
+   - Lenguajes de Programación
+      - [(https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]
+      - https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+      - https://img.shields.io/badge/JSS-F7DF1E?style=for-the-badge&logo=JSS&logoColor=white
+      - https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+      - https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+      - https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+      - https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+      - https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
    
    
 ####VideoJuegos
