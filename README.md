@@ -1,6 +1,8 @@
 ## Hola a TODOS 👋
 #### Me llamo Christian López, estudiante de Software en la UTA ✍️. Diseñador autodidacta 🎨🖼️ y programador Junior 🧑‍💻
-![This is an image](https://i.pinimg.com/564x/b9/85/84/b98584ab9f36137453a742d696b3d7f8.jpg)
+<div class="text-center">
+  <img src="https://i.pinimg.com/564x/b9/85/84/b98584ab9f36137453a742d696b3d7f8.jpg" class="rounded" alt="FondoInformacion">
+</div>
 #### Datos
 - Facebook <a href="https://www.facebook.com/gatito123456789"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 - @LpRistian <a href="https://twitter.com/LpRistian"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
@@ -21,7 +23,7 @@ En el ambito de la programacion conozco varios lenguajes de programación, entre
          ![banner](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
          ![banner](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
    - Estaditsticas
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisitanLP&show_icons=true)
+      - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChrisitanLP&show_icons=true)
    
 #### VideoJuegos
 Se distraerme un poco jugando, alguno de estos juegos son
