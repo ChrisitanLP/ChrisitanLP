@@ -1,4 +1,4 @@
-## Hola a TODOS 👋
+## Hola a TODO el MUNDO 👋
 #### Me llamo Christian López, estudiante de Software en la UTA ✍️. Diseñador autodidacta 🎨🖼️ y programador Junior 🧑‍💻
 
 <img src="https://i.pinimg.com/564x/b9/85/84/b98584ab9f36137453a742d696b3d7f8.jpg" class="rounded" alt="FondoInformacion">
