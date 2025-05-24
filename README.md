@@ -68,23 +68,21 @@ DevOps & Tools
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [WhatsApp-Odoo Connector](https://github.com/usuario/wa-odoo) | Módulo personalizado para integrar Odoo con múltiples cuentas de WhatsApp Web. | `Node.js`, `whatsapp-web.js`, `Odoo`, `PostgreSQL` |
-| [Simulador de Créditos](https://github.com/usuario/simulador-creditos) | Plataforma web en Django para generar simulaciones de créditos con PDF profesional. | `Django`, `WeasyPrint`, `Bootstrap` |
-| [Sistema de Mensajes Predefinidos](https://github.com/usuario/mensajes-predefinidos) | Permite responder con mensajes rápidos en una plataforma de atención al cliente. | `Node.js`, `JavaScript`, `Odoo` |
+| [WhatsApp-Odoo Connector](https://github.com/usuario/wa-odoo) | Módulo personalizado para integrar Odoo con múltiples cuentas de WhatsApp Web. | <img src="https://skillicons.dev/icons?i=odoo,nodejs,postgresql,python" alt="Frontend Technologies"/> |
+| [Simulador de Créditos](https://github.com/usuario/simulador-creditos) | Plataforma web en Django para generar simulaciones de créditos con PDF profesional. | <img src="https://skillicons.dev/icons?i=django, postgresql,python, bootstrap" alt="Frontend Technologies"/> |
 | [Portafolio Retro 2D](https://github.com/usuario/portafolio-retro) | Experiencia interactiva tipo museo para mostrar habilidades artísticas y técnicas. | `React`, `Canvas`, `Pixel Art` |
-| [Gestor de Tareas Backend](https://github.com/usuario/gestor-tareas) | Microservicio para administración de tareas, con JWT y autenticación. | `Python`, `FastAPI`, `SQLite` |
-| [Extractor Sonel a PostgreSQL](https://github.com/usuario/sonel-extractor) | Script automatizado que convierte archivos `.pqm702` a `.xlsx` y carga en PostgreSQL. | `Python`, `Pandas`, `PostgreSQL` |
+| [Extractor Sonel a PostgreSQL](https://github.com/usuario/sonel-extractor) | Script automatizado que convierte archivos `.pqm702` a `.xlsx` y carga en PostgreSQL. | <img src="https://skillicons.dev/icons?i=postgresql,python" alt="Frontend Technologies"/> |
 
 ---
 
 ## 📊 Estadísticas de Desarrollo
+
 <div align="center">
+  <h4>📊 Estadísticas de GitHub</h4>
   <img src="https://github-readme-stats.vercel.app/api?username=ChrisitanLP&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChrisitanLP&theme=radical&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak"/>
-</div>
-<div align="center">
+  
+  <h4>🛠️ Lenguajes más usados</h4>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChrisitanLP&theme=radical" width="48%" alt="Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChrisitanLP&theme=radical&utcOffset=-5" width="48%" alt="Productive Time"/>
 </div>
 
 ---
