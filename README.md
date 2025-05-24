@@ -1,7 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=¡Hola!%20Soy%20Christian%20López%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cloud+Architecture+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-  ### Software Developer | Full Stack Engineer 
+ 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=¡Hola!%20Soy%20Christian%20López%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cloud+Architecture+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  
+### Software Developer | Full Stack Engineer 
+
 </div>
 
 <p align="center">
@@ -92,6 +95,7 @@ Soy un estudiante de Ingeniería de Software con experiencia desarrollando integ
 ---
 
 ## 📬 ¿Hablamos?
-Si estás buscando a alguien apasionado por el desarrollo, con ganas de aprender, colaborar y construir soluciones útiles, ¡estoy disponible! Escríbeme a [clopez6341@uta.edu.ec](mailto:clopez6341@uta.edu.ec) o conéctate por [LinkedIn](https://www.linkedin.com/in/christian-neptali-l%C3%B3pez-97845927a/).
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
 ---
