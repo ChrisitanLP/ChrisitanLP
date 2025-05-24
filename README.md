@@ -1,8 +1,15 @@
-<h1 align="center">👋 ¡Hola! Soy Christian López</h1>
+<div align="center">
+  
+# ¡Hola! Soy Christian López Pillajo 👋
 
-<p align="center">
-  <img src="https://www.canva.com/design/DAGoVvpoLe0/BG1CdZQR07qpX_Y_c75AGw/view?utm_content=DAGoVvpoLe0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha431426fae" width="120" alt="Avatar de Christian López" style="border-radius: 50%">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cloud+Architecture+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+
+### Software Developer | Full Stack Engineer 
+*"Construyendo el futuro, una línea de código a la vez"*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20my%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+</div>
 
 <p align="center">
   🎓 Estudiante de <strong>Ingeniería de Software</strong> apasionado por el desarrollo web, la automatización de procesos y la integración de sistemas. <br>
@@ -34,14 +41,25 @@ Soy un estudiante de Ingeniería de Software con experiencia desarrollando integ
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
-![Odoo](https://img.shields.io/badge/-Odoo-714B67?logo=odoo&logoColor=white&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,vue,angular,js,html,css,tailwind,sass,bootstrap,webpack,vite" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,express,django,fastapi,graphql,nestjs,php,java,go,rust" />
+</p>
+
+### Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,firebase,aws,gcp,azure,docker,kubernetes" />
+</p>
+
+### Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,linux,bash,terraform,jenkins" />
+</p>
 
 </div>
 
@@ -81,25 +99,7 @@ Soy un estudiante de Ingeniería de Software con experiencia desarrollando integ
 ---
 
 ## 📬 ¿Hablamos?
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 Si estás buscando a alguien apasionado por el desarrollo, con ganas de aprender, colaborar y construir soluciones útiles, ¡estoy disponible! Escríbeme a [clopez6341@uta.edu.ec](mailto:clopez6341@uta.edu.ec) o conéctate por [LinkedIn](https://www.linkedin.com/in/christian-neptali-l%C3%B3pez-97845927a/).
 
 ---
-
-## 🧠 Consejos finales para mantener tu README efectivo
-
-### ✅ Buenas prácticas:
-- Actualízalo **cada 1 o 2 meses** para reflejar tus proyectos recientes.
-- Usa **Markdown limpio y visualmente ordenado**.
-- Aprovecha los **badges y visualizaciones**, pero sin sobrecargar.
-- Muestra tus **repos con README completos**, issues claros y commits frecuentes.
-
-### ❌ Errores a evitar:
-- No uses demasiados emojis o texto innecesario.
-- Evita dejar enlaces rotos o proyectos sin descripción.
-- No sobrecargues con párrafos largos: ve al punto.
-- No mezcles proyectos personales poco desarrollados sin valor profesional.
-
----
-
-¿Quieres que te ayude a adaptarlo con tus proyectos reales y enlaces personales? Solo dime y lo hacemos paso a paso.
