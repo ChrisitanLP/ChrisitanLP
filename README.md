@@ -4,8 +4,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Frontend;UI%2FUX;Desarrollador+de+Odoo;Del+Diseño+al+Código&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
 
-
 </div>
+
 
 <p align="center">
   🎓 Estudiante de <strong>Ingeniería de Software</strong> apasionado por el desarrollo web, la automatización de procesos y la integración de sistemas. <br>
@@ -13,60 +13,104 @@
   💼 Buscando oportunidades para aportar valor a través del código, aprender en equipo y crecer profesionalmente.
 </p>
 
+
 ---
 
 ## 🧑‍💻 Sobre mí
 
-Soy un estudiante de Ingeniería de Software con experiencia desarrollando integraciones entre sistemas, automatizando procesos empresariales y creando soluciones web modernas. Me interesa especialmente el backend, la arquitectura de software y la mejora de procesos mediante tecnología.
+Soy un estudiante de Ingeniería de Software apasionado por el desarrollo frontend y el diseño centrado en el usuario. Me especializo en construir interfaces atractivas, accesibles y funcionales, combinando diseño con rendimiento y modularidad.
 
-- 🔍 Áreas de interés: Backend, APIs REST, Odoo, automatización, arquitectura de software, DevOps básico.
-- 💬 Siempre aprendiendo sobre buenas prácticas de desarrollo, metodologías ágiles y herramientas de integración.
-- 🤝 Me gusta trabajar en equipo, documentar bien lo que hago y escribir código limpio y mantenible.
+- 🧠 Interesado en el diseño UI/UX, animaciones web, arquitectura frontend y rendimiento.
+- 🛠️ Experiencia creando integraciones web con sistemas empresariales como Odoo.
+- 📚 En constante aprendizaje de buenas prácticas, Clean Code y herramientas modernas.
 
 ---
 
 ## 🔗 Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ChristianLópez-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/christian-neptali-l%C3%B3pez-97845927a/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Web-orange?logo=web&style=for-the-badge)](https://tusitio.com)
-[![Correo](https://img.shields.io/badge/Email-christian@email.com-red?logo=gmail&style=for-the-badge)](mailto:clopez6341@uta.edu.ec)
+<p align="center">
+  <a href="https://www.linkedin.com/in/christian-neptali-l%C3%B3pez-97845927a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Christian%20López-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://tusitio.com">
+    <img src="https://img.shields.io/badge/Portafolio-Web-orange?style=for-the-badge&logo=web" />
+  </a>
+  <a href="mailto:clopez6341@uta.edu.ec">
+    <img src="https://img.shields.io/badge/Email-clopez6341@uta.edu.ec-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
 ## ⚙️ Tech Stack
 
-<div align="center">
+<table align="center">
+  <tr>
+    <th colspan="2" align="center"><h3>🚀 Desarrollo Frontend</h3></th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" title="React"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=angular" title="Angular"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" title="JavaScript"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" title="HTML5"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" title="CSS3"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/></td>
+  </tr>
 
-## 🚀 Desarrollo Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,angular,js,html,css" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,webpack,vite" />
-</p>
+  <tr><td colspan="2"><br/></td></tr>
 
-## 🧠 Desarrollo Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,nestjs" />
-</p>
+  <tr>
+    <th colspan="2" align="center"><h3>🧠 Desarrollo Backend</h3></th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" title="Express"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" title="Django"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" title="NestJS"/></td>
+    <td></td>
+  </tr>
 
-## ☁️ Bases de datos
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,redis,mysql" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes" />
-</p>
+  <tr><td colspan="2"><br/></td></tr>
 
-## 🧰 Herramientas & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,linux,bash" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=terraform,jenkins" />
-</p>
+  <tr>
+    <th colspan="2" align="center"><h3>☁️ Bases de Datos</h3></th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" title="Firebase"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/></td>
+  </tr>
 
-</div>
+  <tr><td colspan="2"><br/></td></tr>
+
+  <tr>
+    <th colspan="2" align="center"><h3>🧰 Herramientas & DevOps</h3></th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" title="Git"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" title="GitHub"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" title="VSCode"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" title="Postman"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" title="Figma"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bash" title="Bash"/></td>
+  </tr>
+</table>
 
 ---
 
