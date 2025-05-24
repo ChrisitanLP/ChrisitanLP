@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Christian López</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/TU_ID_AQUI" width="120" alt="Avatar de Christian López" style="border-radius: 50%">
+  <img src="https://www.canva.com/design/DAGoVvpoLe0/BG1CdZQR07qpX_Y_c75AGw/view?utm_content=DAGoVvpoLe0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha431426fae" width="120" alt="Avatar de Christian López" style="border-radius: 50%">
 </p>
 
 <p align="center">
