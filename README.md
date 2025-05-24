@@ -68,20 +68,17 @@ DevOps & Tools
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| [WhatsApp-Odoo Connector](https://github.com/usuario/wa-odoo) | Módulo personalizado para integrar Odoo con múltiples cuentas de WhatsApp Web. | <img src="https://skillicons.dev/icons?i=odoo,nodejs,postgresql,python" alt="Frontend Technologies"/> |
-| [Simulador de Créditos](https://github.com/usuario/simulador-creditos) | Plataforma web en Django para generar simulaciones de créditos con PDF profesional. | <img src="https://skillicons.dev/icons?i=django, postgresql,python, bootstrap" alt="Frontend Technologies"/> |
-| [Portafolio Retro 2D](https://github.com/usuario/portafolio-retro) | Experiencia interactiva tipo museo para mostrar habilidades artísticas y técnicas. | `React`, `Canvas`, `Pixel Art` |
-| [Extractor Sonel a PostgreSQL](https://github.com/usuario/sonel-extractor) | Script automatizado que convierte archivos `.pqm702` a `.xlsx` y carga en PostgreSQL. | <img src="https://skillicons.dev/icons?i=postgresql,python" alt="Frontend Technologies"/> |
+| [🔗 WhatsApp-Odoo Connector](https://github.com/usuario/wa-odoo) | Módulo personalizado para integrar Odoo con múltiples cuentas de WhatsApp Web. | <img src="https://skillicons.dev/icons?i=odoo,nodejs,postgresql,python" alt="Frontend Technologies"/> |
+| [💰 Simulador de Créditos](https://github.com/usuario/simulador-creditos) | Plataforma web en Django para generar simulaciones de créditos con PDF profesional. | <img src="https://skillicons.dev/icons?i=django,postgresql,python,bootstrap" alt="Frontend Technologies"/> |
+| [🎨 Portafolio Retro 2D](https://github.com/usuario/portafolio-retro) | Experiencia interactiva tipo museo para mostrar habilidades artísticas y técnicas. | `React`, `Canvas`, `Pixel Art` |
+| [⚡ Extractor Sonel a PostgreSQL](https://github.com/usuario/sonel-extractor) | Script automatizado que convierte archivos `.pqm702` a `.xlsx` y carga en PostgreSQL. | <img src="https://skillicons.dev/icons?i=postgresql,python" alt="Frontend Technologies"/> |
 
 ---
 
 ## 📊 Estadísticas de Desarrollo
 
 <div align="center">
-  <h4>📊 Estadísticas de GitHub</h4>
   <img src="https://github-readme-stats.vercel.app/api?username=ChrisitanLP&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats"/>
-  
-  <h4>🛠️ Lenguajes más usados</h4>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChrisitanLP&theme=radical" width="48%" alt="Languages"/>
 </div>
 
