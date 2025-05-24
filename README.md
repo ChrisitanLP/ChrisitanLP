@@ -40,8 +40,8 @@ Combino principios de diseño UX/UI con desarrollo técnico avanzado para crear 
 
 ## 🛠️ Actualmente enfocado en:
 
-- 🔄 ** Arquitectura de microservicios ** para aplicaciones empresariales escalables
-- 🤖 ** Automatización inteligente ** de procesos empresariales con IA
+- 🔄 Arquitectura de microservicios para aplicaciones empresariales escalables
+- 🤖 Automatización inteligente de procesos empresariales con IA
 
 ---
 
