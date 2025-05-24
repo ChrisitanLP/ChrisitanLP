@@ -82,8 +82,5 @@ DevOps & Tools
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChrisitanLP&theme=radical" width="48%" alt="Languages"/>
 </div>
 
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-
----
