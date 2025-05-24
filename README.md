@@ -44,73 +44,38 @@ Soy un estudiante de Ingeniería de Software apasionado por el desarrollo fronte
 
 ## ⚙️ Tech Stack
 
-<table align="center">
-  <tr>
-    <th colspan="2" align="center"><h3>🚀 Desarrollo Frontend</h3></th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=react" title="React"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=angular" title="Angular"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=js" title="JavaScript"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=html" title="HTML5"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=css" title="CSS3"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/></td>
-  </tr>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
 
-  <tr><td colspan="2"><br/></td></tr>
+  <div>
+    <h4 align="center">🚀 Frontend</h4>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=react,angular,js,html,css,bootstrap" />
+    </p>
+  </div>
 
-  <tr>
-    <th colspan="2" align="center"><h3>🧠 Desarrollo Backend</h3></th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" title="Express"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django" title="Django"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" title="NestJS"/></td>
-    <td></td>
-  </tr>
+  <div>
+    <h4 align="center">🧠 Backend</h4>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,nestjs" />
+    </p>
+  </div>
 
-  <tr><td colspan="2"><br/></td></tr>
+  <div>
+    <h4 align="center">☁️ Base de Datos</h4>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,mysql" />
+    </p>
+  </div>
 
-  <tr>
-    <th colspan="2" align="center"><h3>☁️ Bases de Datos</h3></th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" title="Firebase"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/></td>
-  </tr>
+  <div>
+    <h4 align="center">🧰 Herramientas</h4>
+    <p align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,bash" />
+    </p>
+  </div>
 
-  <tr><td colspan="2"><br/></td></tr>
+</div>
 
-  <tr>
-    <th colspan="2" align="center"><h3>🧰 Herramientas & DevOps</h3></th>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" title="Git"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" title="GitHub"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" title="VSCode"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=postman" title="Postman"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" title="Figma"/></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bash" title="Bash"/></td>
-  </tr>
-</table>
 
 ---
 
