@@ -6,21 +6,19 @@
 
 </div>
 
-
-<p align="center">
-   Ingeniero de Software | Enfoque en desarrollo full-stack | Diseñador frontend
-</p>
-
-
 ---
 
 ## 🧑‍💻 Sobre mí
 
 Soy un estudiante de Ingeniería de Software apasionado por el desarrollo frontend y el diseño centrado en el usuario. Me especializo en construir interfaces atractivas, accesibles y funcionales, combinando diseño con rendimiento y modularidad.
 
-- 🧠 Interesado en el diseño UI/UX, animaciones web, arquitectura frontend y rendimiento.
-- 🛠️ Experiencia creando integraciones web con sistemas empresariales como Odoo.
-- 📚 En constante aprendizaje de buenas prácticas, Clean Code y herramientas modernas.
+<p align="center">
+   Ingeniero de Software | Enfoque en desarrollo full-stack | Diseñador frontend
+</p>
+
+## 🎯 Mi enfoque profesional
+
+Combino principios de diseño UX/UI con desarrollo técnico avanzado para crear experiencias digitales que no solo se ven bien, sino que resuelven problemas reales. Mi experiencia abarca desde la conceptualización y prototipado hasta la implementación técnica y optimización de rendimiento.
 
 ---
 
@@ -40,12 +38,19 @@ Soy un estudiante de Ingeniería de Software apasionado por el desarrollo fronte
 
 ---
 
+## 🛠️ Actualmente enfocado en:
+
+- 🔄 ** Arquitectura de microservicios ** para aplicaciones empresariales escalables
+- 🤖 ** Automatización inteligente ** de procesos empresariales con IA
+
+---
+
 ## ⚙️ Stack Tecnológico
 
 <div align="center">
 Frontend & UI/UX
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css,sass,tailwind,bootstrap,figma" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css,bootstrap,figma" alt="Frontend Technologies"/>
 </p>
 Backend & Databases
 <p>
@@ -56,14 +61,6 @@ DevOps & Tools
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,bash,linux" alt="DevOps Tools"/>
 </p>
 </div>
-
-
----
-
-## 🛠️ Actualmente trabajando en:
-
-- 🔄 **Integración de WhatsApp Web con Odoo** – Automatización de comunicación multicuenta con gestión de mensajes, productos y contactos.
-- 🧾 **Simulador de créditos e inversiones** – Proyecto en Django que genera tablas de amortización profesionales y exportables en PDF.
 
 ---
 
