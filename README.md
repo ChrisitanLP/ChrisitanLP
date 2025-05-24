@@ -1,9 +1,9 @@
 <div align="center">
  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=¡Hola!%20Soy%20Christian%20López%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Cloud+Architecture+Enthusiast;Open+Source+Contributor;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-  
-### Software Developer | Full Stack Engineer 
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Frontend;UI%2FUX;Desarrollador+de+Odoo;Del+Diseño+al+Código&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
+
 
 </div>
 
@@ -37,24 +37,33 @@ Soy un estudiante de Ingeniería de Software con experiencia desarrollando integ
 
 <div align="center">
 
-### Frontend Development
+## 🚀 Desarrollo Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,vue,angular,js,html,css,tailwind,sass,bootstrap,webpack,vite" />
+  <img src="https://skillicons.dev/icons?i=react,angular,js,html,css" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,webpack,vite" />
 </p>
 
-### Backend Development
+## 🧠 Desarrollo Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,express,django,fastapi,graphql,nestjs,php,java,go,rust" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,nestjs" />
 </p>
 
-### Database & Cloud
+## ☁️ Bases de datos
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,firebase,aws,gcp,azure,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,redis,mysql" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes" />
 </p>
 
-### Tools & DevOps
+## 🧰 Herramientas & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,linux,bash,terraform,jenkins" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,linux,bash" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=terraform,jenkins" />
 </p>
 
 </div>
@@ -93,8 +102,6 @@ Soy un estudiante de Ingeniería de Software con experiencia desarrollando integ
 </p>
 
 ---
-
-## 📬 ¿Hablamos?
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
