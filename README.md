@@ -8,9 +8,7 @@
 
 
 <p align="center">
-  🎓 Estudiante de <strong>Ingeniería de Software</strong> apasionado por el desarrollo web, la automatización de procesos y la integración de sistemas. <br>
-  🚀 Enfocado actualmente en <strong>desarrollo backend, integración con APIs y sistemas ERP (como Odoo)</strong>. <br>
-  💼 Buscando oportunidades para aportar valor a través del código, aprender en equipo y crecer profesionalmente.
+   Ingeniero de Software | Enfoque en desarrollo full-stack | Diseñador frontend
 </p>
 
 
@@ -28,52 +26,35 @@ Soy un estudiante de Ingeniería de Software apasionado por el desarrollo fronte
 
 ## 🔗 Encuéntrame en:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/christian-neptali-l%C3%B3pez-97845927a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Christian%20López-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://tusitio.com">
-    <img src="https://img.shields.io/badge/Portafolio-Web-orange?style=for-the-badge&logo=web" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/christian-neptali-l%C3%B3pez-97845927a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Christian%20López-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:clopez6341@uta.edu.ec">
-    <img src="https://img.shields.io/badge/Email-clopez6341@uta.edu.ec-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-clopez6341@uta.edu.ec-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-En%20construcción-FF6B35?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Stack Tecnológico
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 40px;">
-
-  <div>
-    <h4 align="center">🚀 Frontend</h4>
-    <p align="center">
-      <img src="https://skillicons.dev/icons?i=react,angular,js,html,css,bootstrap" />
-    </p>
-  </div>
-
-  <div>
-    <h4 align="center">🧠 Backend</h4>
-    <p align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,nestjs" />
-    </p>
-  </div>
-
-  <div>
-    <h4 align="center">☁️ Base de Datos</h4>
-    <p align="center">
-      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase,mysql" />
-    </p>
-  </div>
-
-  <div>
-    <h4 align="center">🧰 Herramientas</h4>
-    <p align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,bash" />
-    </p>
-  </div>
-
+<div align="center">
+Frontend & UI/UX
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css,sass,tailwind,bootstrap,figma" alt="Frontend Technologies"/>
+</p>
+Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,nestjs,python,postgresql,mongodb,mysql,firebase" alt="Backend Technologies"/>
+</p>
+DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,bash,linux" alt="DevOps Tools"/>
+</p>
 </div>
 
 
@@ -99,16 +80,15 @@ Soy un estudiante de Ingeniería de Software apasionado por el desarrollo fronte
 
 ---
 
-## 📊 Estadísticas y métricas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrisitanLP&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChrisitanLP&theme=radical" width="47%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChrisitanLP&theme=radical" width="47%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChrisitanLP&theme=radical&utcOffset=8" width="47%" />
-</p>
+## 📊 Estadísticas de Desarrollo
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChrisitanLP&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChrisitanLP&theme=radical&hide_border=true&background=0D1117" width="48%" alt="GitHub Streak"/>
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChrisitanLP&theme=radical" width="48%" alt="Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChrisitanLP&theme=radical&utcOffset=-5" width="48%" alt="Productive Time"/>
+</div>
 
 ---
 
