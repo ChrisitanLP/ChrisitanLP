@@ -1,265 +1,86 @@
-# 🎮 CHRISTIAN QUEST: DEVELOPER'S JOURNEY
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║        ███████╗██╗  ██╗██████╗ ██╗███████╗████████╗██╗ █████╗ ███╗   ██╗     ║
-║        ██╔════╝██║  ██║██╔══██╗██║██╔════╝╚══██╔══╝██║██╔══██╗████╗  ██║     ║
-║        ██║     ███████║██████╔╝██║███████╗   ██║   ██║███████║██╔██╗ ██║     ║
-║        ██║     ██╔══██║██╔══██╗██║╚════██║   ██║   ██║██╔══██║██║╚██╗██║     ║
-║        ███████╗██║  ██║██║  ██║██║███████║   ██║   ██║██║  ██║██║ ╚████║     ║
-║        ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝   ╚═╝   ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝     ║
-║                                                                               ║
-║                         QUEST: THE CODE MASTER                               ║
-║                             Version 2.0.25                                   ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
+ 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=¡Hola!%20Soy%20Christian%20López%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=🎮+PRESIONA+START+PARA+COMENZAR;🕹️+LOADING+GAME...;⚡+WELCOME+TO+THE+DIGITAL+REALM!&font=Courier+New&center=true&width=500&height=50&color=00ff41&vCenter=true&size=18&pause=1000)
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Frontend;UI%2FUX;Desarrollador+de+Odoo;Del+Diseño+al+Código&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=22">
 
 </div>
 
 ---
 
-## 🧙‍♂️ FICHA DEL PERSONAJE
+## 🧑‍💻 Sobre mí
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                      CHARACTER STATS                        ║
-╠══════════════════════════════════════════════════════════════╣
-║  👤 NOMBRE: Christian Neptali López                          ║
-║  🎭 CLASE:  Full-Stack Developer                            ║
-║  ⭐ NIVEL:  Junior [████████▓▓] 80%                         ║
-║  🎓 TÍTULO: Ingeniero de Software                           ║
-║  🏠 BASE:   Riobamba, Ecuador                               ║
-║                                                              ║
-║  💡 HABILIDADES ESPECIALES:                                 ║
-║  ▶ Frontend Mastery     [██████████] 90%                   ║
-║  ▶ UI/UX Design         [████████▓▓] 85%                   ║
-║  ▶ Backend Development  [███████▓▓▓] 75%                   ║
-║  ▶ Problem Solving      [█████████▓] 95%                   ║
-║  ▶ Code Architecture    [███████▓▓▓] 70%                   ║
-║                                                              ║
-║  🎯 ESPECIALIZACIÓN:                                         ║
-║     "Construir interfaces atractivas y funcionales          ║
-║      que resuelven problemas reales"                        ║
-╚══════════════════════════════════════════════════════════════╝
-```
+Soy un estudiante de Ingeniería de Software apasionado por el desarrollo frontend y el diseño centrado en el usuario. Me especializo en construir interfaces atractivas, accesibles y funcionales, combinando diseño con rendimiento y modularidad.
+
+<p align="center">
+   Ingeniero de Software | Enfoque en desarrollo full-stack | Diseñador frontend
+</p>
+
+## 🎯 Mi enfoque profesional
+
+Combino principios de diseño UX/UI con desarrollo técnico avanzado para crear experiencias digitales que no solo se ven bien, sino que resuelven problemas reales. Mi experiencia abarca desde la conceptualización y prototipado hasta la implementación técnica y optimización de rendimiento.
 
 ---
 
-## 🗺️ MAPA DE MISIONES - PROYECTOS DESTACADOS
-
-```
-    🏰 MUNDO DE PROYECTOS COMPLETADOS 🏰
-    
-     [💬] WhatsApp-Odoo        [💰] Simulador de         [🎨] Portafolio
-          Connector                 Créditos                  Retro 2D
-     ┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐
-     │ DIFICULTAD: ⭐⭐⭐⭐ │      │ DIFICULTAD: ⭐⭐⭐  │      │ DIFICULTAD: ⭐⭐⭐⭐⭐│
-     │ EXP: +250       │      │ EXP: +180       │      │ EXP: +300       │
-     │ RECOMPENSA: 🏆  │      │ RECOMPENSA: 💎  │      │ RECOMPENSA: 🎭  │
-     └─────────────────┘      └─────────────────┘      └─────────────────┘
-            │                         │                         │
-            ▼                         ▼                         ▼
-     "Integración épica"      "Automatización de      "Arte interactivo
-      de WhatsApp con          cálculos financieros     tipo museo con
-      múltiples cuentas"       con PDFs pro"           pixel art"
-    
-     [⚡] Extractor Sonel
-     ┌─────────────────┐
-     │ DIFICULTAD: ⭐⭐⭐ │      🚧 PRÓXIMAS MISIONES:
-     │ EXP: +150       │      • Microservicios Avanzados
-     │ RECOMPENSA: ⚙️  │      • IA para Automatización
-     └─────────────────┘      • Portfolio 3D Interactivo
-            │
-            ▼
-     "Conversión mágica
-      de .pqm702 a
-      PostgreSQL"
-```
-
-### 📝 DETALLES DE MISIONES
-
-| 🎯 QUEST | 📖 DESCRIPCIÓN | ⚔️ ARMAS USADAS | 🏆 STATUS |
-|----------|----------------|------------------|-----------|
-| **WhatsApp-Odoo Connector** | Módulo épico para conectar el reino de Odoo con múltiples cuentas del mundo WhatsApp | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ✅ COMPLETA |
-| **Simulador de Créditos** | Plataforma mágica en Django que genera simulaciones financieras con pergaminos PDF | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) | ✅ COMPLETA |
-| **Portafolio Retro 2D** | Experiencia interactiva tipo museo con arte pixel para mostrar habilidades | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Canvas](https://img.shields.io/badge/Canvas-FF6B6B?style=flat-square&logo=html5&logoColor=white) | ✅ COMPLETA |
-| **Extractor Sonel** | Script de automatización que convierte archivos místicos a formato legible | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) | ✅ COMPLETA |
-
----
-
-## 🧰 INVENTARIO - ARSENAL TECNOLÓGICO
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                               🎒 INVENTARIO                                  ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  🗡️ ARMAS DE FRONTEND (Equipadas):                                          ║
-║  ┌─────────────────────────────────────────────────────────────────────────┐║
-║  │ React ⚔️     Angular 🏹     TypeScript 🔮     JavaScript ⚡           │║
-║  │ HTML5 🛡️     CSS3 🎨        Bootstrap 👘      Figma 🖌️                │║
-║  └─────────────────────────────────────────────────────────────────────────┘║
-║                                                                              ║
-║  🏰 FORTALEZAS DE BACKEND:                                                   ║
-║  ┌─────────────────────────────────────────────────────────────────────────┐║
-║  │ Node.js 🌙    Express ⚡     Django 🐍       FastAPI 🚀               │║
-║  │ NestJS 🏛️     Python 🐍     PostgreSQL 🗄️   MongoDB 🍃               │║
-║  │ MySQL 🐬      Firebase 🔥                                               │║
-║  └─────────────────────────────────────────────────────────────────────────┘║
-║                                                                              ║
-║  ⚙️ HERRAMIENTAS MÁGICAS:                                                    ║
-║  ┌─────────────────────────────────────────────────────────────────────────┐║
-║  │ Git 📚        GitHub 🐙      VS Code 💻      Postman 📮               │║
-║  │ Docker 🐳     Bash 💻        Linux 🐧                                  │║
-║  └─────────────────────────────────────────────────────────────────────────┘║
-║                                                                              ║
-║  💎 OBJETOS ESPECIALES:                                                      ║
-║  • Poción de Debugging Infinito 🧪                                          ║
-║  • Scroll de Clean Code 📜                                                  ║
-║  • Amuleto de Responsive Design 🔮                                          ║
-║  • Gema de Performance Optimization 💎                                      ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 📡 COMUNICACIONES - CANALES DE CONTACTO
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    📞 CENTRO DE COMUNICACIONES               ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  Selecciona tu método de comunicación preferido:            ║
-║                                                              ║
-║  🔗 [A] LinkedIn Professional                               ║
-║      ├─ Estado: 🟢 ACTIVO                                   ║
-║      └─ Canal: Conexiones profesionales                     ║
-║                                                              ║
-║  📧 [B] Email Directo                                       ║
-║      ├─ Estado: 🟢 DISPONIBLE 24/7                         ║
-║      └─ Dirección: clopez6341@uta.edu.ec                   ║
-║                                                              ║
-║  🌐 [C] Portfolio Web                                       ║
-║      ├─ Estado: 🟡 EN CONSTRUCCIÓN                         ║
-║      └─ ETA: Próximamente...                               ║
-║                                                              ║
-║  💬 Para colaboraciones, proyectos o simplemente charlar    ║
-║      sobre código y café ☕                                 ║
-╚══════════════════════════════════════════════════════════════╝
-```
+## 🔗 Encuéntrame en:
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Christian_López-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-neptali-l%C3%B3pez-97845927a/)
-[![Email](https://img.shields.io/badge/📧_Email-clopez6341@uta.edu.ec-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clopez6341@uta.edu.ec)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-En_construcción-FF6B35?style=for-the-badge&logo=web&logoColor=white)](#)
-
+  <a href="https://www.linkedin.com/in/christian-neptali-l%C3%B3pez-97845927a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Christian%20López-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:clopez6341@uta.edu.ec">
+    <img src="https://img.shields.io/badge/Email-clopez6341@uta.edu.ec-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-En%20construcción-FF6B35?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
 ---
 
-## 🎯 MISIONES ACTUALES
+## 🛠️ Actualmente enfocado en:
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    🎯 QUEST LOG ACTIVO                      ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  🔄 MISIÓN PRINCIPAL:                                       ║
-║  └─ "Arquitectura de Microservicios Épica"                 ║
-║     ├─ Progreso: [██████▓▓▓▓] 60%                          ║
-║     ├─ Dificultad: ⭐⭐⭐⭐⭐                                ║
-║     └─ Recompensa: +500 EXP, Título "Arquitecto"           ║
-║                                                              ║
-║  🤖 MISIÓN SECUNDARIA:                                      ║
-║  └─ "Automatización IA para Procesos Empresariales"        ║
-║     ├─ Progreso: [████▓▓▓▓▓▓] 40%                          ║
-║     ├─ Dificultad: ⭐⭐⭐⭐⭐                                ║
-║     └─ Recompensa: +400 EXP, Habilidad "AI Whisperer"      ║
-║                                                              ║
-║  💡 MISIÓN DIARIA:                                          ║
-║  └─ "Aprender algo nuevo cada día"                          ║
-║     ├─ Streak actual: 🔥 127 días                          ║
-║     └─ Próximo objetivo: 🎖️ 200 días                       ║
-╚══════════════════════════════════════════════════════════════╝
-```
+- 🔄 Arquitectura de microservicios para aplicaciones empresariales escalables
+- 🤖 Automatización inteligente de procesos empresariales con IA
 
 ---
 
-## 📊 ESTADÍSTICAS DEL JUGADOR
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    📊 GAME STATISTICS                       ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  🏆 NIVEL GENERAL:  [████████▓▓] Junior Developer           ║
-║  ⚡ EXP TOTAL:      2,847 puntos                            ║
-║  🎯 PROYECTOS:      12 completados                          ║
-║  🔥 RACHA ACTUAL:   42 días de código consecutivos          ║
-║  💻 COMMITS:        +1,200 este año                         ║
-║  🌟 LOGROS:         8 desbloqueados                         ║
-║                                                              ║
-║  📈 ESTADÍSTICAS DETALLADAS:                                ║
-║  ├─ Bugs eliminados: 🐛 x847                               ║
-║  ├─ Café consumido: ☕ x324 tazas                          ║
-║  ├─ Líneas de código: 📝 +50,000                           ║
-║  └─ Problemas resueltos: 🧩 x156                           ║
-╚══════════════════════════════════════════════════════════════╝
-```
+## ⚙️ Stack Tecnológico
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisitanLP&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChrisitanLP&theme=synthwave)
-
+Frontend & UI/UX
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css,bootstrap,figma" alt="Frontend Technologies"/>
+</p>
+Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,nestjs,python,postgresql,mongodb,mysql,firebase" alt="Backend Technologies"/>
+</p>
+DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,bash,linux" alt="DevOps Tools"/>
+</p>
 </div>
 
 ---
 
-## 🏆 LOGROS DESBLOQUEADOS
+## 🌟 Proyectos destacados
 
-```
-🥇 "First Commit"           - Tu primer commit en el repositorio
-🔥 "Code Streak Master"     - 30+ días de commits consecutivos  
-🎨 "UI Wizard"              - Crear interfaces hermosas y funcionales
-🔧 "Bug Terminator"         - Eliminar 100+ bugs sin piedad
-🌟 "Project Completionist"  - Finalizar 10+ proyectos exitosos
-🤝 "Team Player"            - Colaborar efectivamente en equipo
-📚 "Continuous Learner"     - Aprender nuevas tecnologías constantemente
-🚀 "Performance Optimizer"  - Mejorar rendimiento de aplicaciones
-```
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [🔗 WhatsApp-Odoo Connector](https://github.com/usuario/wa-odoo) | Módulo personalizado para integrar Odoo con múltiples cuentas de WhatsApp Web. | <img src="https://skillicons.dev/icons?i=odoo,nodejs,postgresql,python" alt="Frontend Technologies"/> |
+| [💰 Simulador de Créditos](https://github.com/usuario/simulador-creditos) | Plataforma web en Django para generar simulaciones de créditos con PDF profesional. | <img src="https://skillicons.dev/icons?i=django,postgresql,python,bootstrap" alt="Frontend Technologies"/> |
+| [🎨 Portafolio Retro 2D](https://github.com/usuario/portafolio-retro) | Experiencia interactiva tipo museo para mostrar habilidades artísticas y técnicas. | `React`, `Canvas`, `Pixel Art` |
+| [⚡ Extractor Sonel a PostgreSQL](https://github.com/usuario/sonel-extractor) | Script automatizado que convierte archivos `.pqm702` a `.xlsx` y carga en PostgreSQL. | <img src="https://skillicons.dev/icons?i=postgresql,python" alt="Frontend Technologies"/> |
 
 ---
 
-```
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                                                                               ║
-║                            🎮 GAME OVER? NO WAY!                            ║
-║                          🚀 THE ADVENTURE CONTINUES...                       ║
-║                                                                               ║
-║                     Gracias por jugar "Christian Quest"                      ║
-║                                                                               ║
-║                   🌟 ¿Listos para la próxima actualización? 🌟              ║
-║                                                                               ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
+## 📊 Estadísticas de Desarrollo
 
 <div align="center">
-
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&text=PRESS%20F%20TO%20FOLLOW&fontSize=24&fontColor=00ff41)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ChrisitanLP&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChrisitanLP&theme=radical" width="48%" alt="Languages"/>
 </div>
 
----
 
-<div align="center">
-<sub>🎮 Desarrollado con ❤️ y mucho ☕ por Christian López | Version 2.0.25 | Ecuador 🇪🇨</sub>
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
