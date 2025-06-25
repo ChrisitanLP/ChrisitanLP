@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy un estudiante de Ingeniería de Software apasionado por el desarrollo frontend y el diseño centrado en el usuario. Me especializo en construir interfaces atractivas, accesibles y funcionales, combinando diseño con rendimiento y modularidad.
+Ingeniero de Software en formación, apasionado por el desarrollo frontend y el diseño centrado en el usuario. Me especializo en construir interfaces atractivas, accesibles y funcionales, combinando diseño con rendimiento y modularidad.
 
 <p align="center">
    Ingeniero de Software | Enfoque en desarrollo full-stack | Diseñador frontend
@@ -21,22 +21,6 @@ Soy un estudiante de Ingeniería de Software apasionado por el desarrollo fronte
 ## 🎯 Mi enfoque profesional
 
 Combino principios de diseño UX/UI con desarrollo técnico avanzado para crear experiencias digitales que no solo se ven bien, sino que resuelven problemas reales. Mi experiencia abarca desde la conceptualización y prototipado hasta la implementación técnica y optimización de rendimiento.
-
----
-
-## 🔗 Encuéntrame en:
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/christian-neptali-l%C3%B3pez-97845927a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Christian%20López-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:clopez6341@uta.edu.ec">
-    <img src="https://img.shields.io/badge/Email-clopez6341@uta.edu.ec-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-En%20construcción-FF6B35?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
-  </a>
-</div>
 
 ---
 
@@ -66,6 +50,30 @@ DevOps & Tools
 
 ---
 
+## 💼 Experiencia Profesional
+
+### 🏢 Empresa Eléctrica Ambato (EEASA)
+**📅 Mayo 2025 – Actualidad**  
+**📍 Ambato, Ecuador**  
+**🎯 Cargo:** Pasante en Desarrollo de Software
+
+- Desarrollo de soluciones tecnológicas para el área de planificación.
+- Optimización de la gestión energética y análisis de datos técnicos.
+- **Tecnologías utilizadas:** Python.
+
+---
+
+### 🛠️ IMPALDIESEL CIA. LTDA.
+**📅 Junio 2024 – Septiembre 2024**  
+**📍 Ambato, Ecuador**  
+**🎯 Cargo:** Pasante en Integración Odoo - WhatsApp
+
+- Implementación desde cero de una solución que conecta múltiples cuentas de WhatsApp con Odoo.
+- Desarrollo de API propia, módulo Odoo personalizado y sistema de gestión de mensajes empresariales.
+- **Tecnologías utilizadas:** Python, Odoo, JavaScript, Node.js.
+
+---
+
 ## 🌟 Proyectos destacados
 
 | Nombre      | Proyecto | Descripción | Tecnologías |
@@ -76,13 +84,54 @@ DevOps & Tools
 | **Retrofolio** | [🎨 Portafolio Retro 2D](https://github.com/usuario/portafolio-retro) | Experiencia interactiva estilo museo digital, que combina diseño artístico en pixel art con navegación gamificada para mostrar habilidades. | <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Tech stack"/> |
 | **Sonel** | [⚡ Automatización Sonel a PostgreSQL](https://github.com/ChrisitanLP/SonelAnalysis) | Sistema automatizado en Python que convierte archivos `.pqm702` en hojas de cálculo y las carga en PostgreSQL, utilizando control UI programático. | <img src="https://skillicons.dev/icons?i=python,postgresql" alt="Tech stack"/> |
 | **Inti** | [🍺 Sistema Web para Cervecería](https://github.com/ChrisitanLP/ProyectoGestion6toSemestre) | Portal web con panel de administración e interfaz pública para la Cervecería INTI. Incluye gestión de productos, usuarios y catálogo actualizado. | <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql" alt="Tech stack"/> |
+
+---
+
+## 📜 Certificaciones
+
+<div align="center">
+
+| 🏅 Certificación | 🏢 Institución | 📅 Fecha | 🔗 ID / Enlace |
+|------------------|----------------|----------|----------------|
+| ✔️ **Javascript Essentials 1** | Cisco Networking Academy | Jun. 2025 | [Ver insignia](https://www.credly.com/earner/earned/badge/7322ec91-4877-46a6-9294-1bdc46dca1ee) |
+| ✔️ **Python Essentials 1** | Cisco Networking Academy | May. 2025 | [Ver insignia](https://www.credly.com/earner/earned/badge/652a9a40-ab79-4754-a354-bcba23c7355a) |
+| ✔️ **Python Essentials 2** | Cisco Networking Academy | May. 2025 | [Ver insignia](https://www.credly.com/earner/earned/badge/b646d672-799e-42ab-8d00-10bd93d7e9b8) |
+| ✔️ **Curso de Desarrollo de Apps Móviles** | Google | Ago. 2023 | [Ver insignia](https://skillshop.exceedlms.com/student/award/keMerbsFnzMyp1AR4zsVmq57) |
+
+</div>
+
+---
+
+
+## 🔗 Encuéntrame en:
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/christian-neptali-l%C3%B3pez-97845927a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Christian%20López-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:clopez6341@uta.edu.ec">
+    <img src="https://img.shields.io/badge/Email-clopez6341@uta.edu.ec-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-En%20construcción-FF6B35?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
 ---
 
 ## 📊 Estadísticas de Desarrollo
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChrisitanLP&theme=github_dark" width="95%" alt="GitHub Profile Summary"/>
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChrisitanLP&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChrisitanLP&theme=radical" width="48%" alt="Languages"/>
+  
+  <!-- Tarjeta principal con estadísticas -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ChrisitanLP&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&border_radius=10&rank_icon=github" width="48%" alt="GitHub Stats"/>
+
+  <!-- Lenguajes más usados por repositorio -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisitanLP&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&border_radius=10" width="48%" alt="Top Languages"/>
+
 </div>
 
 
