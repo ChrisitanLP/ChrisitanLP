@@ -79,9 +79,9 @@ DevOps & Tools
 | Nombre      | Proyecto | Descripción | Tecnologías |
 |-------------|----------|-------------|-------------|
 | **WAMO** | [🔗 WhatsApp-Odoo Connector](https://github.com/ChrisitanLP/WAMO) | Módulo que integra múltiples cuentas de WhatsApp Web en Odoo, permitiendo una gestión centralizada de mensajes, productos y archivos desde la interfaz del ERP. | <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,postgresql" alt="Tech stack"/> |
-| **Gradux** | [💰 Simulador de Créditos](https://github.com/ChrisitanLP/gradux) | Plataforma web para gestión académica con frontend modular en React y backend en Node.js, diseñada para instituciones educativas. | <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,mysql" alt="Tech stack"/> |
+| **Gradux** | [💰 Gestor académico](https://github.com/ChrisitanLP/gradux) | Plataforma web para gestión académica con frontend modular en React y backend en Node.js, diseñada para instituciones educativas. | <img src="https://skillicons.dev/icons?i=react,nodejs,javascript,mysql" alt="Tech stack"/> |
 | **Acroware** | [📦 Sistema de Inventario Institucional](https://github.com/Yachitzu/Acroware) | Sistema web para registrar, asignar y controlar bienes materiales y software en entornos académicos. Incluye roles, reportes y escaneo QR. | <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql" alt="Tech stack"/> |
-| **Retrofolio** | [🎨 Portafolio Retro 2D](https://github.com/usuario/portafolio-retro) | Experiencia interactiva estilo museo digital, que combina diseño artístico en pixel art con navegación gamificada para mostrar habilidades. | <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Tech stack"/> |
+| **Retrofolio** | [🎨 Portafolio Retro 2D](https://github.com/ChrisitanLP/retrofolio) | Experiencia interactiva estilo museo digital, que combina diseño artístico en pixel art con navegación gamificada para mostrar habilidades. | <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Tech stack"/> |
 | **Sonel** | [⚡ Automatización Sonel a PostgreSQL](https://github.com/ChrisitanLP/SonelAnalysis) | Sistema automatizado en Python que convierte archivos `.pqm702` en hojas de cálculo y las carga en PostgreSQL, utilizando control UI programático. | <img src="https://skillicons.dev/icons?i=python,postgresql" alt="Tech stack"/> |
 | **Inti** | [🍺 Sistema Web para Cervecería](https://github.com/ChrisitanLP/ProyectoGestion6toSemestre) | Portal web con panel de administración e interfaz pública para la Cervecería INTI. Incluye gestión de productos, usuarios y catálogo actualizado. | <img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql" alt="Tech stack"/> |
 
@@ -114,6 +114,9 @@ DevOps & Tools
   </a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-En%20construcción-FF6B35?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+  </a>
+   <a href="https://utaedu-my.sharepoint.com/:b:/g/personal/clopez6341_uta_edu_ec/EYywRQhrZplLmSy_fWBw_dcB-pLFQDLZwU073K-zkkIVIg?e=eaStVl" target="_blank">
+    <img src="https://img.shields.io/badge/CV-Descargar-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV"/>
   </a>
 </div>
 
