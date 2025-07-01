@@ -112,8 +112,8 @@ DevOps & Tools
   <a href="mailto:clopez6341@uta.edu.ec">
     <img src="https://img.shields.io/badge/Email-clopez6341@uta.edu.ec-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-En%20construcción-FF6B35?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
+  <a href="https://chrisitanlp.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Ingresa%20ahora-FF6B35?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
   </a>
    <a href="https://utaedu-my.sharepoint.com/:b:/g/personal/clopez6341_uta_edu_ec/EYywRQhrZplLmSy_fWBw_dcB-pLFQDLZwU073K-zkkIVIg?e=eaStVl" target="_blank">
     <img src="https://img.shields.io/badge/CV-Descargar-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV"/>
